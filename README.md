@@ -47,6 +47,6 @@
 6. 搭建docker镜像
    这里我们一共需要四个包，在开发者手册中找到这几个包的下载地址，把这几个包下载下来，与Dockerfile文件放在同一个目录下（已提供给 
    大家），然后运行Dockerfile开始自动构建docker镜像，耐心等待docker镜像构建成功就好了
-7. 剩下的步骤就是按照Dockerfile文件使用说明一步一步操作。
+7. 剩下的步骤就是按照Dockerfile文件使用说明一步一步操作（https://github.com/MiRoboticsLab/blogs/blob/rolling/docs/cn/dockerfile_instructions_cn.md）
    
    

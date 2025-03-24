@@ -40,8 +40,6 @@
    $sudo usermod -aG docker $USER
    #重启电脑然后重新启动docker验证是否安装成功
    $systemctl start docker
-   #安装工具
-   $apt-get -y install apt-transport-https ca-certificates curl software-properties-common
    #重启docker
    $service docker restart
 6. 搭建docker镜像
